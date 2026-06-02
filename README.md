@@ -4,7 +4,7 @@ AI Safety Researcher | Aspiring Industrial Engineer | Singapore
 I like understanding how systems break. Whether that's an LLM accepting a false premise, a volunteer program burning out its best people, or a flight simulator sitting idle. I build things to measure it and fix it.
 
 ### What I'm Working On
-- **[Sichuan Dialect Perception and Textual Absence](https://github.com/AuricHardcastle/sichuan-dialect-perception-and-textual-absence)** - listeners hear Sichuan dialect in Chengdu hip-hop, but a 40-song coded corpus shows it's near-absent from written lyrics. Chinese orthography doesn't encode pronunciation — the dialect lives in performance, not text.
+- **[Sichuan Dialect Perception and Textual Absence](https://github.com/AuricHardcastle/sichuan-dialect-perception-and-textual-absence)** - 40-song coded corpus shows Chengdu hip-hop's perceived dialect is near-absent from written lyrics. Chinese orthography can't encode pronunciation; the dialect lives in performance, not text.
 - **[Presupposed vs Asserted Falsehoods](https://github.com/AuricHardcastle/presupposed-vs-asserted-falsehoods)** - proved that presupposition framing doubles false-premise acceptance in frontier LLMs (p < .001, 1,793 responses)
 - **[Jane Street Neural Net Solver](https://github.com/AuricHardcastle/jane-street-neural-net-solver)** - reassembled a shuffled 48-block residual network from a 10^122 search space to floating-point-zero error
 - Currently working through Operations Research & Discrete Optimization coursework
